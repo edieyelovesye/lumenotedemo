@@ -30,7 +30,7 @@ Lumenote is a sleek, student-focused **website** designed to help you manage ass
 ## 🛠️ Getting Started
 
 To use Lumenote, simply visit [lumenote.app](https://lumenote.app) and sign in with your Google account. No installation required!
-This is an unofficial release, so this is just to have code ready.
+
 
 ---
 
@@ -50,4 +50,4 @@ Have questions or feedback? We’d love to hear from you!
 
 ---
 
-Made with ❤️ by [@29faded](https://instagram.com/29faded). Happy studying! 🎓✨
+Made with ❤️ by [@29faded](https://instagram.com/29faded).
