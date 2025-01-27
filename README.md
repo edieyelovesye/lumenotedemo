@@ -1,4 +1,4 @@
-# 📚 Lumenote
+# 📚 Lumenote (Web Demo)
 
 ✨ **Sync with Google Classroom, track assignments, and conquer deadlines effortlessly.** ✨
 
@@ -30,6 +30,7 @@ Lumenote is a sleek, student-focused **website** designed to help you manage ass
 ## 🛠️ Getting Started
 
 To use Lumenote, simply visit [lumenote.app](https://lumenote.app) and sign in with your Google account. No installation required!
+This is an unofficial release, so this is just to have code ready.
 
 ---
 
